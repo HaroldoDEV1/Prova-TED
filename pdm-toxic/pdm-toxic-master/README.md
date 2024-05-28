@@ -12,5 +12,10 @@
    npx expo start
    ```
 
+   #Desenvolvedores:
+   - Haroldo Kimura
+   - Vitor Ferraz
+   - Henrique De laVolpe     
+
    
 
